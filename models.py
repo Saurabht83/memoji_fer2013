@@ -53,3 +53,5 @@ class EmoNet():
 			return logits, dropout_placeholder
 		return logits
 
+         print("hello")
+
